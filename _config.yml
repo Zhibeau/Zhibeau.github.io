@@ -41,12 +41,11 @@ social:
   email: zzhibo98[at]gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your twitter homepage
+    #- https://twitter.com/username # change to your twitter homepage
     - https://github.com/Zhibeau # change to your github homepage
+    - https://www.linkedin.com/in/zhibo-zhang-b604a4155/
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    - https://www.linkedin.com/in/zhibo-zhang-b604a4155/
-
 google_site_verification: # fill in to your verification string
 
 # ↑ --------------------------
