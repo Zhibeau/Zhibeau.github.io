@@ -1,5 +1,5 @@
 ---
-title: Chat Cybersecurity Recruiter
+title: Chat with a cybersecurity recruiter
 author: Zhibeau
 date: 2023-07-22 11:33:00 -0400
 categories: [Job]
