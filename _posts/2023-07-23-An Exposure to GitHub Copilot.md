@@ -2,6 +2,7 @@
 title: An Exposure to GitHub Copilot
 author: Zhibeau
 date: 2023-07-23 12:21:00 -0400
+img_path: ./AEGC/
 categories: [Coding,DevOps]
 tags: [Microsoft Learning,DevOps]
 ---
@@ -36,22 +37,22 @@ tags: [Microsoft Learning,DevOps]
 # My exposure to GitHub Copilot:
 Firstly, we need to add a configuration file in the repository:
 
-![Desktop View](/_posts/AEGC/devjson.png)
+![Desktop View](devjson.png)
 
 After install the Copilot extension in VSC, we use it during coding, here are some solutions suggested by copilot:
 
-![Desktop View](/_posts/AEGC/httprequestprompt.png)
+![Desktop View](httprequestprompt.png)
 
-![Desktop View](/_posts/AEGC/Prompt_mergesort.png)
+![Desktop View](Prompt_mergesort.png)
 
-![Desktop View](/_posts/AEGC/Prompt_factorial.png)
+![Desktop View](Prompt_factorial.png)
 
-![Desktop View](/_posts/AEGC/Prompt_calculate2nums.png)
+![Desktop View](Prompt_calculate2nums.png)
 
 You can press tab to apply the solution.
 
 Sometimes the solution is generating, you can press ```ctrl+enter``` to open another text file that contains the solution and will keep freshing till all the solutions are generated. Then you can choose one among them:
 
-![Desktop View](/_posts/AEGC/generating_solutions.png)
+![Desktop View](generating_solutions.png)
 
-![Desktop View](/_posts/AEGC/Complex_solution.png)
+![Desktop View](Complex_solution.png)
