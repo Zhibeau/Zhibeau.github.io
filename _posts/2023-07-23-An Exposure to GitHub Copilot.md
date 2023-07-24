@@ -2,7 +2,7 @@
 title: An Exposure to GitHub Copilot
 author: Zhibeau
 date: 2023-07-23 12:21:00 -0400
-img_path: https:////github.com/Zhibeau/zhibeau.github.io/blob/main/_posts/AEGC/
+img_path: /img/AEGC/
 categories: [Coding,DevOps]
 tags: [Microsoft Learning,DevOps]
 ---
