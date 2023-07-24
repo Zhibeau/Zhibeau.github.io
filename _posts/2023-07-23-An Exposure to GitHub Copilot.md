@@ -36,22 +36,22 @@ tags: [Microsoft Learning,DevOps]
 # My exposure to GitHub Copilot:
 Firstly, we need to add a configuration file in the repository:
 
-![alt image](./AEGC/devjson.png)
+![Desktop View](/posts/AEGC/devjson.png)
 
 After install the Copilot extension in VSC, we use it during coding, here are some solutions suggested by copilot:
 
-![alt image](./AEGC/httprequestprompt.png)
+![Desktop View](/posts/AEGC/httprequestprompt.png)
 
-![alt image](./AEGC/Prompt_mergesort.png)
+![Desktop View](/posts/AEGC/Prompt_mergesort.png)
 
-![alt image](./AEGC/Prompt_factorial.png)
+![Desktop View](/posts/AEGC/Prompt_factorial.png)
 
-![alt image](./AEGC/Prompt_calculate2nums.png)
+![Desktop View](/posts/AEGC/Prompt_calculate2nums.png)
 
 You can press tab to apply the solution.
 
 Sometimes the solution is generating, you can press ```ctrl+enter``` to open another text file that contains the solution and will keep freshing till all the solutions are generated. Then you can choose one among them:
 
-![alt image](./AEGC/generating_solutions.png)
+![Desktop View](/posts/AEGC/generating_solutions.png)
 
-![alt image](./AEGC/Complex_solution.png)
+![Desktop View](/posts/AEGC/Complex_solution.png)
