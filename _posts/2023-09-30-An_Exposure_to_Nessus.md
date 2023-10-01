@@ -1,10 +1,10 @@
 ---
-title: Introduction to control system security
+title: An exposure to Nessus vulnerability scan
 author: Zhibeau
-date: 2023-09-29 14:07:00 -0400
+date: 2023-09-30 16:08:00 -0400
 img_path: https:////raw.githubusercontent.com/Zhibeau/zhibeau.github.io/main/_posts/9_30/
-categories: [Cyber-Physical System,Cybersecurity, Notes]
-tags: [Industrial control system]
+categories: [Software]
+tags: [Vulnerability scan]
 ---
 
 ## What is Nessus?
