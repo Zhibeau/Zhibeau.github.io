@@ -36,6 +36,7 @@ tags: [Industrial control system]
 | Modifications possible withlittle paperwork | Formal certification may be required after any change      |
 
 5. Operating environments:
+
 | IT                                                                           | OT                                                                    |
 |------------------------------------------------------------------------------|-----------------------------------------------------------------------|
 | Typical “Office” Applications                                                | Special Applications                                                  |
@@ -46,6 +47,7 @@ tags: [Industrial control system]
 | Data center, server room oroffice environment                                | Industrial environment                                                |
 
 6. Risk management requirements:
+
 | IT                                                      | OT                                                          |
 |---------------------------------------------------------|-------------------------------------------------------------|
 | Data confidentiality and integrity are paramount        | HSE and production are paramount (integrity & availability) |
