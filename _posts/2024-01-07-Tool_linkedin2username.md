@@ -19,8 +19,10 @@ We can start the linkedin2username with the following one-line command:
 where **-c** means the name of the company to search and **-s** means the sleep time between each search.
 Then the default browser will open a LinkedIn log in page, we need to input the account that we will use to conduct the user search
 ![LogIn](1.png)
+
 After loggin in, we press enter in the command console and wait for the searching process.
 ![Searching](2.png)
+
 The generated username list will be output into files with different forms:
 - first.last.txt: Usernames like Joe.Schmoe
 - f.last.txt: Usernames like J.Schmoe
@@ -33,8 +35,10 @@ The generated username list will be output into files with different forms:
 
 Here is what we got in **trojan.first.last.txt**:
 ![Result trojan](3.png)
+
 As we can see in the output, there are only the user "linkedin.member", because we used a newly registered account. Since we haven't connect anyone, the users in the search results will be protected and shown as "LinkedIn Member" (depending on the privacy setting of the user).
 ![LinkedIn Member](5.png)
+
 If we search for a larger company, for example, google, we can have some valid results (even though there are still a large amount of "LinkedIn Member").
 ![Result google](4.png)
 

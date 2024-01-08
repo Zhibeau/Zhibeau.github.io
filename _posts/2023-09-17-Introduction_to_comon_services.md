@@ -1,5 +1,5 @@
 ---
-title: Documentation and reporting for pentests
+title: Introduction to common services
 author: Zhibeau
 date: 2023-09-17 16:51:00 -0400
 img_path: https:////raw.githubusercontent.com/Zhibeau/zhibeau.github.io/main/_posts/9_17/
