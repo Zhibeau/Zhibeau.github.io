@@ -1,7 +1,7 @@
 ---
 title: Tool | OSINT | linkedin2username
 author: Zhibeau
-date: 2023-01-07 22:51:00 -0400
+date: 2024-01-07 22:51:00 -0400
 img_path: https:////raw.githubusercontent.com/Zhibeau/zhibeau.github.io/main/_posts/24_01_07/
 categories: [Cybersecurity, Pentest, Tool]
 tags: [OSINT]
@@ -34,12 +34,15 @@ The generated username list will be output into files with different forms:
 - metadata.txt CSV file which is full_name,occupation
 
 Here is what we got in **trojan.first.last.txt**:
+
 ![Result trojan](3.png)
 
 As we can see in the output, there are only the user "linkedin.member", because we used a newly registered account. Since we haven't connect anyone, the users in the search results will be protected and shown as "LinkedIn Member" (depending on the privacy setting of the user).
+
 ![LinkedIn Member](5.png)
 
 If we search for a larger company, for example, google, we can have some valid results (even though there are still a large amount of "LinkedIn Member").
+
 ![Result google](4.png)
 
 ## Conclusion
