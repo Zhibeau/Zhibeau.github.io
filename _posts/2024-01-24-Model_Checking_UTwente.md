@@ -1,7 +1,7 @@
 ---
 title: Model Checking UTwente
 author: Zhibeau
-date: 2024-01-23 11:06:00 -0400
+date: 2024-01-24 11:06:00 -0400
 img_path: https:////raw.githubusercontent.com/Zhibeau/zhibeau.github.io/main/_posts/24_01_24/
 categories: [Notes]
 tags: [Cybersecurity, Security Analysis]
@@ -35,7 +35,7 @@ State properties $\Phi$ :¬, ∨, $\exists$, $\forall$
 
 State properties $\phi$ :**$\times$**,$\square$,$\cup$ $\Diamond$
 
-![](C:\Users\zzhib\AppData\Roaming\marktext\images\2024-01-23-12-21-41-image.png)
+![](2024-01-23-12-21-41-image.png)
 
 #### Property specification
 
@@ -43,27 +43,27 @@ State properties $\phi$ :**$\times$**,$\square$,$\cup$ $\Diamond$
 
 <img title="" src="file:///C:/Users/zzhib/AppData/Roaming/marktext/images/2024-01-23-12-27-44-image.png" alt="" width="365">
 
-![](C:\Users\zzhib\AppData\Roaming\marktext\images\2024-01-23-12-50-22-image.png)
+![](2024-01-23-12-50-22-image.png)
 
-![](C:\Users\zzhib\AppData\Roaming\marktext\images\2024-01-23-12-51-01-image.png)
+![](2024-01-23-12-51-01-image.png)
 
 ## CTL Model Checking formulation
 
-![](C:\Users\zzhib\AppData\Roaming\marktext\images\2024-01-23-13-22-16-image.png)
+![](2024-01-23-13-22-16-image.png)
 
 ## Existential normal form of CTL
 
 For each CTL formula, there is an equivalent formula in $\exists$-normal form
 
-![](C:\Users\zzhib\AppData\Roaming\marktext\images\2024-01-23-14-19-56-image.png)
+![](2024-01-23-14-19-56-image.png)
 
 ### Excersices
 
-![](C:\Users\zzhib\AppData\Roaming\marktext\images\2024-01-24-13-39-24-image.png)
+![](2024-01-24-13-39-24-image.png)
 
 answer: state 3
 
-![](C:\Users\zzhib\AppData\Roaming\marktext\images\2024-01-24-13-40-50-image.png)
+![](2024-01-24-13-40-50-image.png)
 
 answer: state 1,2,3,4
 
@@ -77,13 +77,13 @@ answer: state 1,2,3,4
 
 - **Memorylessness**: The current state of the model contains all information that can influence the future evolution.
   
-  ![](C:\Users\zzhib\AppData\Roaming\marktext\images\2024-01-23-19-29-25-image.png)
+  ![](2024-01-23-19-29-25-image.png)
 
 ### Discret Time Markov Chain Definition
 
 **Utilization of the DTMC**: Which states will be reached at what probability after *k* steps?
 
-![](C:\Users\zzhib\AppData\Roaming\marktext\images\2024-01-23-19-12-51-image.png)
+![](2024-01-23-19-12-51-image.png)
 
 - for the stochastic matrix P:
 
