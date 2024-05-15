@@ -85,7 +85,7 @@ if (move_uploaded_file($_FILES["uploadFile"]["tmp_name"], $target_file)) {
 
 **4. Bypass the MIME type filter**: 
 
-The filter about the file name,`Content-Type`, or size is easy to bypass. But we need to craft a pretending legitimate picture to bypass the MIME type filter. [The wikipedia]([List of file signatures - Wikipedia](https://en.wikipedia.org/wiki/List_of_file_signatures)) contains the signature of different types of file. We notice that `FF D8 FF D8` is the signature of the `.jpg` file. Let's add this at the beginning of our payload.
+The filter about the file name,`Content-Type`, or size is easy to bypass. But we need to craft a pretending legitimate picture to bypass the MIME type filter. [The wikipedia]([List of file signatures - Wikipedia](https://en.wikipedia.org/wiki/List_of_file_signatures)contains the signature of different types of file. We notice that `FF D8 FF D8` is the signature of the `.jpg` file. Let's add this at the beginning of our payload.
 
 ![3_jpg_magic_byte.png](3_jpg_magic_byte.png)
 
