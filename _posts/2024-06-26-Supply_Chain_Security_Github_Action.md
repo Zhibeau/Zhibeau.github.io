@@ -114,7 +114,4 @@ To trigger the build process, we need to create or edit an issue, the payload `"
   ![fries_exfiltration.png](fries_exfiltration.png)
 
   After decoding, the token in plain text can be seen:
-
-```bash
-root@aaa:~# echo "Z2hzXzduSzBEZjFWdmZuUTZQcWhPTDVoVmVwRExNR0pYNDE2T2NTbwo=" | base64 -d
-```
+  ![fries_token.png](fries_token.png)
