@@ -117,5 +117,4 @@ To trigger the build process, we need to create or edit an issue, the payload `"
 
 ```bash
 root@aaa:~# echo "Z2hzXzduSzBEZjFWdmZuUTZQcWhPTDVoVmVwRExNR0pYNDE2T2NTbwo=" | base64 -d
-g h s _ 7 n K 0 D f 1 V v f n Q 6 P q h O L 5 h V e p D L M G J X 4 1 6 O c S o
 ```
